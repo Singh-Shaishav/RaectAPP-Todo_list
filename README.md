@@ -2,7 +2,7 @@
 This is a simple React-based to-do list application that allows users to create and manage their to-do list items easily.
 
 ## **Features**
-- Add new to-do items with descriptions and due dates (optional).
+- Add new to-do items with descriptions.
 - Mark to-do items as complete when they are finished.
 - Delete to-do items that are no longer needed.
 - About page that provides additional information about the app.
